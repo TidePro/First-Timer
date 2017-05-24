@@ -1,2 +1,3 @@
 # First-Timer
-New
+
+Learning Javascript, HTML, and CSS
